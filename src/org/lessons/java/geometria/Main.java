@@ -20,6 +20,7 @@ public class Main {
 		
 		System.out.println("Perimetro: " + perimetro);
 		System.out.println("Area: " + area);
+		rettangolo.disegna();
 	
 		}
 	
